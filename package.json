@@ -1,0 +1,17 @@
+{
+  "name": "E-commerce-rabbitmq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "isAuthenticated.js",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "jsonwebtoken": "^9.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
